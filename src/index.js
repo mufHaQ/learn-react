@@ -17,6 +17,10 @@ import reportWebVitals from './reportWebVitals';
 // import './list/_005_State_Lifecycle/sl'
 
 // 6. Handling Events
+// import './list/_006_Handling_Events/he'
+
+// 7. Conditional Rendering
+import './list/_007_Conditional_Rendering/cr'
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
