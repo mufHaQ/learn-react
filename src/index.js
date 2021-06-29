@@ -23,7 +23,10 @@ import reportWebVitals from './reportWebVitals';
 // import './list/_007_Conditional_Rendering/cr'
 
 // 8. Lists and Keys
-import './list/_008_Lists_Keys/lk'
+// import './list/_008_Lists_Keys/lk'
+
+// 9. Forms
+import './list/_009_Forms/f'
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
